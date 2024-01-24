@@ -15,7 +15,7 @@ div {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: rgb(231, 19, 33);
+    background-color: rgb(15, 126, 224);
 }
 
 span {
@@ -30,7 +30,7 @@ span {
 }
 
 span:hover {
-    color: rgb(80, 217, 35);
+    color: rgb(238, 9, 16);
     border: 2px solid rgb(120, 6, 29);
 }
 
